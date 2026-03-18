@@ -15,14 +15,14 @@ El objetivo principal era poder facilitar el uso de microcontroladores para los 
 
 ### Evolución:
 
-* 2005: Lanzamiento del primer Arduino
+* 2005: Lanzamiento oficial del primer Arduino
 * 2008: Popularización global
-* Actualidad: Uso en proyectos educativos, industriales y de innovación
+* Actualidad: Su uso se ve en proyectos educativos, industriales y de innovación
 
 
 ## Periféricos de Arduino y su uso
 
-Arduino puede conectarse con diferentes dispositivos llamados periféricos:
+El arduino puede conectarse con diferentes dispositivos llamados periféricos:
 
 ### Sensores (Entrada)
 
@@ -35,7 +35,7 @@ Permiten captar información del entorno:
 
 ### Actuadores (Salida)
 
-Permiten ejecutar acciones:
+Son los que permiten ejecutar acciones:
 
 * LEDs
 * Motores
@@ -52,7 +52,7 @@ Permiten conectar Arduino con otros dispositivos:
 * Pantallas LCD
 
 
-## Ficha técnica (Arduino Uno)
+## Ficha técnica 
 
 ### Microcontrolador:
 
@@ -88,7 +88,7 @@ Permiten conectar Arduino con otros dispositivos:
 
 ### Pines analógicos (A0–A5)
 
-* Lectura de señales analógicas
+* Sirven para la lectura de señales analógicas
 
 ### Pines de alimentación
 
@@ -105,11 +105,11 @@ Permiten conectar Arduino con otros dispositivos:
 
 ## Arquitectura de Arduino
 
-Arduino se basa en una arquitectura de microcontrolador que incluye:
+El arduino se basa en una arquitectura de microcontrolador la cual incluye:
 
 * CPU (procesador)
 * Memoria (Flash, SRAM, EEPROM)
-* Entradas y salidas digitales/analógicas
+* Entradas y salidas digitales y analógicas
 * Interfaces de comunicación (UART, SPI, I2C)
 
 El usuario programa el Arduino mediante el IDE usando lenguaje basado en C/C++.
@@ -141,22 +141,7 @@ Arduino permite:
 * Sistema de riego automático
 
 
-## Conclusión
-
-Arduino es una herramienta poderosa para el aprendizaje y desarrollo de proyectos electrónicos. Su facilidad de uso y versatilidad lo convierten en una de las plataformas más populares en el mundo de la tecnología.
 
 
-## Autor
-
-* Nombre del estudiante
-* Curso / Materia
-* Fecha
 
 
-## Repositorio
-
-Agrega aquí el enlace de tu repositorio de GitHub:
-
-```
-https://github.com/tu-usuario/arduino-investigacion
-```
